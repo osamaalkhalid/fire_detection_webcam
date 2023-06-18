@@ -44,7 +44,5 @@ This program is released under the MIT License.
 
 Please acknowledge the author, Osama Alkhalid, if you use or modify this program.
 
-And here's the code for main.py:
-
 
 
